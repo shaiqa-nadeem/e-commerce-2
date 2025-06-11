@@ -115,7 +115,7 @@ pytz==2021.1
     # via google-api-core
 pywavelets==1.1.1
     # via imagehash
-requests==2.26.0
+requests==2.32.4
     # via
     #   cachecontrol
     #   google-api-core
