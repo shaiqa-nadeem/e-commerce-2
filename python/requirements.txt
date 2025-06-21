@@ -91,7 +91,7 @@ pillow==8.3.2
     # via imagehash
 proto-plus==1.19.0
     # via google-cloud-firestore
-protobuf==3.18.0
+protobuf==4.25.8
     # via
     #   google-api-core
     #   google-cloud-storage
@@ -137,7 +137,7 @@ six==1.16.0
     #   imagehash
 uritemplate==3.0.1
     # via google-api-python-client
-urllib3==1.26.6
+urllib3==2.5.0
     # via requests
 werkzeug==2.0.1
     # via flask
