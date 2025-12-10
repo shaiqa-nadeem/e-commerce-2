@@ -137,7 +137,7 @@ six==1.16.0
     #   imagehash
 uritemplate==3.0.1
     # via google-api-python-client
-urllib3==1.26.6
+urllib3==2.6.0
     # via requests
 werkzeug==2.0.1
     # via flask
