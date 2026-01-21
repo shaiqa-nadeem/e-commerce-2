@@ -97,7 +97,7 @@ protobuf==3.18.0
     #   google-cloud-storage
     #   googleapis-common-protos
     #   proto-plus
-pyasn1==0.4.8
+pyasn1==0.6.2
     # via
     #   pyasn1-modules
     #   rsa
@@ -137,9 +137,9 @@ six==1.16.0
     #   imagehash
 uritemplate==3.0.1
     # via google-api-python-client
-urllib3==1.26.6
+urllib3==2.6.3
     # via requests
-werkzeug==2.0.1
+werkzeug==3.1.5
     # via flask
 
 # The following packages are considered to be unsafe in a requirements file:
