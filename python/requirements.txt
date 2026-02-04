@@ -91,7 +91,7 @@ pillow==8.3.2
     # via imagehash
 proto-plus==1.19.0
     # via google-cloud-firestore
-protobuf==3.18.0
+protobuf==6.33.5
     # via
     #   google-api-core
     #   google-cloud-storage
